@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8c67769-b7b6-42f0-8ae8-43e67eabe7be" name="更改" comment="w5,数据可视化练习，matplotlib和seaborn课堂练习">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e8c67769-b7b6-42f0-8ae8-43e67eabe7be" name="更改" comment="w5,数据可视化练习，matplotlib和seaborn课堂练习" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
